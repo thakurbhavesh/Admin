@@ -1,0 +1,1 @@
+This project contains the raw design for an Admin Panel. The design includes basic layout components and UI elements without any backend functionality. It serves as a starting point for developing a fully functional admin interface.
